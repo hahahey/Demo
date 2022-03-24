@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet xmlns="http://tempuri.org/">
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="车辆信息">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="truck_mc" type="xs:string" minOccurs="0" />
+                <xs:element name="truck_id" type="xs:string" minOccurs="0" />
+                <xs:element name="cys_mc" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <NewDataSet xmlns="">
+      <车辆信息 diffgr:id="车辆信息1" msdata:rowOrder="0">
+        <truck_mc>报废</truck_mc>
+        <truck_id>00000240</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息2" msdata:rowOrder="1">
+        <truck_mc>拆除</truck_mc>
+        <truck_id>00000136</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息3" msdata:rowOrder="2">
+        <truck_mc>拆除</truck_mc>
+        <truck_id>00000141</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息4" msdata:rowOrder="3">
+        <truck_mc>拆除</truck_mc>
+        <truck_id>00000471</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息5" msdata:rowOrder="4">
+        <truck_mc>拆除</truck_mc>
+        <truck_id>00000472</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息6" msdata:rowOrder="5">
+        <truck_mc>拆除</truck_mc>
+        <truck_id>00000517</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息7" msdata:rowOrder="6">
+        <truck_mc>机动挂</truck_mc>
+        <truck_id>00000219</truck_id>
+        <cys_mc>二次-淄博信继</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息8" msdata:rowOrder="7">
+        <truck_mc>临时</truck_mc>
+        <truck_id>00000027</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息9" msdata:rowOrder="8">
+        <truck_mc>鲁123456</truck_mc>
+        <truck_id>99999999</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息10" msdata:rowOrder="9">
+        <truck_mc>鲁AB3306</truck_mc>
+        <truck_id>00000310</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息11" msdata:rowOrder="10">
+        <truck_mc>鲁AB3331</truck_mc>
+        <truck_id>00000406</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息12" msdata:rowOrder="11">
+        <truck_mc>鲁AC7632</truck_mc>
+        <truck_id>00000410</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息13" msdata:rowOrder="12">
+        <truck_mc>鲁AH1382</truck_mc>
+        <truck_id>00000457</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息14" msdata:rowOrder="13">
+        <truck_mc>鲁AH1538</truck_mc>
+        <truck_id>00000405</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息15" msdata:rowOrder="14">
+        <truck_mc>鲁AH1560</truck_mc>
+        <truck_id>00000379</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息16" msdata:rowOrder="15">
+        <truck_mc>鲁AH1565</truck_mc>
+        <truck_id>00000319</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息17" msdata:rowOrder="16">
+        <truck_mc>鲁AH1665</truck_mc>
+        <truck_id>00000309</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息18" msdata:rowOrder="17">
+        <truck_mc>鲁AH2337</truck_mc>
+        <truck_id>00000367</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息19" msdata:rowOrder="18">
+        <truck_mc>鲁AH2559</truck_mc>
+        <truck_id>00000365</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息20" msdata:rowOrder="19">
+        <truck_mc>鲁AH2663</truck_mc>
+        <truck_id>00000364</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息21" msdata:rowOrder="20">
+        <truck_mc>鲁AH2677</truck_mc>
+        <truck_id>00000237</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息22" msdata:rowOrder="21">
+        <truck_mc>鲁AH2737</truck_mc>
+        <truck_id>00000238</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息23" msdata:rowOrder="22">
+        <truck_mc>鲁AH2807</truck_mc>
+        <truck_id>00000243</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息24" msdata:rowOrder="23">
+        <truck_mc>鲁AH2826</truck_mc>
+        <truck_id>00000458</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息25" msdata:rowOrder="24">
+        <truck_mc>鲁AH2855</truck_mc>
+        <truck_id>00000308</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息26" msdata:rowOrder="25">
+        <truck_mc>鲁AH2899</truck_mc>
+        <truck_id>00000242</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息27" msdata:rowOrder="26">
+        <truck_mc>鲁AL6033</truck_mc>
+        <truck_id>00000363</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息28" msdata:rowOrder="27">
+        <truck_mc>鲁AL6239</truck_mc>
+        <truck_id>00000463</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息29" msdata:rowOrder="28">
+        <truck_mc>鲁AL6511</truck_mc>
+        <truck_id>00000236</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息30" msdata:rowOrder="29">
+        <truck_mc>鲁AL6717</truck_mc>
+        <truck_id>00000366</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息31" msdata:rowOrder="30">
+        <truck_mc>鲁AL6736</truck_mc>
+        <truck_id>00000369</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息32" msdata:rowOrder="31">
+        <truck_mc>鲁AL6737</truck_mc>
+        <truck_id>00000241</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息33" msdata:rowOrder="32">
+        <truck_mc>鲁AL7380</truck_mc>
+        <truck_id>00000460</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息34" msdata:rowOrder="33">
+        <truck_mc>鲁AL8936</truck_mc>
+        <truck_id>00000462</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息35" msdata:rowOrder="34">
+        <truck_mc>鲁AL8970</truck_mc>
+        <truck_id>00000407</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息36" msdata:rowOrder="35">
+        <truck_mc>鲁AU0119</truck_mc>
+        <truck_id>00000380</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息37" msdata:rowOrder="36">
+        <truck_mc>鲁AU2583</truck_mc>
+        <truck_id>00000368</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息38" msdata:rowOrder="37">
+        <truck_mc>鲁AU6028</truck_mc>
+        <truck_id>00000489</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息39" msdata:rowOrder="38">
+        <truck_mc>鲁AU6900</truck_mc>
+        <truck_id>00000454</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息40" msdata:rowOrder="39">
+        <truck_mc>鲁AU6933</truck_mc>
+        <truck_id>00000455</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息41" msdata:rowOrder="40">
+        <truck_mc>鲁AU8380</truck_mc>
+        <truck_id>00000459</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息42" msdata:rowOrder="41">
+        <truck_mc>鲁AU8952</truck_mc>
+        <truck_id>00000456</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息43" msdata:rowOrder="42">
+        <truck_mc>鲁AU8975</truck_mc>
+        <truck_id>00000404</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息44" msdata:rowOrder="43">
+        <truck_mc>鲁AU8993</truck_mc>
+        <truck_id>00000461</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息45" msdata:rowOrder="44">
+        <truck_mc>鲁AU9003</truck_mc>
+        <truck_id>00000317</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息46" msdata:rowOrder="45">
+        <truck_mc>鲁AU9350</truck_mc>
+        <truck_id>00000318</truck_id>
+        <cys_mc>二次-济南捷安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息47" msdata:rowOrder="46">
+        <truck_mc>鲁AX5362</truck_mc>
+        <truck_id>00000252</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息48" msdata:rowOrder="47">
+        <truck_mc>鲁BN9509</truck_mc>
+        <truck_id>00000244</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息49" msdata:rowOrder="48">
+        <truck_mc>鲁BR5350</truck_mc>
+        <truck_id>00000115</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息50" msdata:rowOrder="49">
+        <truck_mc>鲁BW2738</truck_mc>
+        <truck_id>00000230</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息51" msdata:rowOrder="50">
+        <truck_mc>鲁BY0583</truck_mc>
+        <truck_id>00000113</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息52" msdata:rowOrder="51">
+        <truck_mc>鲁BY3070</truck_mc>
+        <truck_id>00000091</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息53" msdata:rowOrder="52">
+        <truck_mc>鲁BY3090</truck_mc>
+        <truck_id>00000082</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息54" msdata:rowOrder="53">
+        <truck_mc>鲁BY7523</truck_mc>
+        <truck_id>00000092</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息55" msdata:rowOrder="54">
+        <truck_mc>鲁C83399</truck_mc>
+        <truck_id>00000307</truck_id>
+        <cys_mc>二次-淄博聚高</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息56" msdata:rowOrder="55">
+        <truck_mc>鲁CB2317</truck_mc>
+        <truck_id>00000009</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息57" msdata:rowOrder="56">
+        <truck_mc>鲁CB5203</truck_mc>
+        <truck_id>00000022</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息58" msdata:rowOrder="57">
+        <truck_mc>鲁CB7575</truck_mc>
+        <truck_id>00000020</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息59" msdata:rowOrder="58">
+        <truck_mc>鲁CE5700</truck_mc>
+        <truck_id>00000010</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息60" msdata:rowOrder="59">
+        <truck_mc>鲁CE6093</truck_mc>
+        <truck_id>00000053</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息61" msdata:rowOrder="60">
+        <truck_mc>鲁CE6692</truck_mc>
+        <truck_id>00000035</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息62" msdata:rowOrder="61">
+        <truck_mc>鲁CE6762</truck_mc>
+        <truck_id>00000112</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息63" msdata:rowOrder="62">
+        <truck_mc>鲁CE6763</truck_mc>
+        <truck_id>00000134</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息64" msdata:rowOrder="63">
+        <truck_mc>鲁CF2560</truck_mc>
+        <truck_id>00000107</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息65" msdata:rowOrder="64">
+        <truck_mc>鲁CF5060</truck_mc>
+        <truck_id>00000016</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息66" msdata:rowOrder="65">
+        <truck_mc>鲁CF5532</truck_mc>
+        <truck_id>00000018</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息67" msdata:rowOrder="66">
+        <truck_mc>鲁CF5730</truck_mc>
+        <truck_id>00000135</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息68" msdata:rowOrder="67">
+        <truck_mc>鲁CF6132</truck_mc>
+        <truck_id>00000659</truck_id>
+        <cys_mc>二次-淄博迪普</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息69" msdata:rowOrder="68">
+        <truck_mc>鲁CF6382</truck_mc>
+        <truck_id>00000111</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息70" msdata:rowOrder="69">
+        <truck_mc>鲁CF6989</truck_mc>
+        <truck_id>00000007</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息71" msdata:rowOrder="70">
+        <truck_mc>鲁CF8980</truck_mc>
+        <truck_id>00000658</truck_id>
+        <cys_mc>二次-淄博信继</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息72" msdata:rowOrder="71">
+        <truck_mc>鲁CF9801</truck_mc>
+        <truck_id>00000656</truck_id>
+        <cys_mc>二次-淄博迪普</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息73" msdata:rowOrder="72">
+        <truck_mc>鲁CJ1279</truck_mc>
+        <truck_id>00000008</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息74" msdata:rowOrder="73">
+        <truck_mc>鲁CM3158</truck_mc>
+        <truck_id>00000657</truck_id>
+        <cys_mc>二次-淄博迪普</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息75" msdata:rowOrder="74">
+        <truck_mc>鲁CM3806</truck_mc>
+        <truck_id>00000017</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息76" msdata:rowOrder="75">
+        <truck_mc>鲁CM6993</truck_mc>
+        <truck_id>00000011</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息77" msdata:rowOrder="76">
+        <truck_mc>鲁CM7986</truck_mc>
+        <truck_id>00000019</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息78" msdata:rowOrder="77">
+        <truck_mc>鲁CM8515</truck_mc>
+        <truck_id>00000026</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息79" msdata:rowOrder="78">
+        <truck_mc>鲁CM9899</truck_mc>
+        <truck_id>00000021</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息80" msdata:rowOrder="79">
+        <truck_mc>鲁CN0756</truck_mc>
+        <truck_id>00000233</truck_id>
+        <cys_mc>二次-淄博信继</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息81" msdata:rowOrder="80">
+        <truck_mc>鲁CN5099</truck_mc>
+        <truck_id>00000232</truck_id>
+        <cys_mc>二次-淄博信继</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息82" msdata:rowOrder="81">
+        <truck_mc>鲁CP7557</truck_mc>
+        <truck_id>00000023</truck_id>
+        <cys_mc>二次-淄博迈特</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息83" msdata:rowOrder="82">
+        <truck_mc>鲁CQ9176</truck_mc>
+        <truck_id>00000680</truck_id>
+        <cys_mc>二次-淄博迪普</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息84" msdata:rowOrder="83">
+        <truck_mc>鲁D06160</truck_mc>
+        <truck_id>00000186</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息85" msdata:rowOrder="84">
+        <truck_mc>鲁D78138</truck_mc>
+        <truck_id>00000206</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息86" msdata:rowOrder="85">
+        <truck_mc>鲁D78600</truck_mc>
+        <truck_id>00000185</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息87" msdata:rowOrder="86">
+        <truck_mc>鲁D78803</truck_mc>
+        <truck_id>00000207</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息88" msdata:rowOrder="87">
+        <truck_mc>鲁D79920</truck_mc>
+        <truck_id>00000209</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息89" msdata:rowOrder="88">
+        <truck_mc>鲁D87552</truck_mc>
+        <truck_id>00000193</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息90" msdata:rowOrder="89">
+        <truck_mc>鲁D87571</truck_mc>
+        <truck_id>00000205</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息91" msdata:rowOrder="90">
+        <truck_mc>鲁D87572</truck_mc>
+        <truck_id>00000194</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息92" msdata:rowOrder="91">
+        <truck_mc>鲁D87593</truck_mc>
+        <truck_id>00000208</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息93" msdata:rowOrder="92">
+        <truck_mc>鲁D96168</truck_mc>
+        <truck_id>00000181</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息94" msdata:rowOrder="93">
+        <truck_mc>鲁D96258</truck_mc>
+        <truck_id>00000182</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息95" msdata:rowOrder="94">
+        <truck_mc>鲁DA3038</truck_mc>
+        <truck_id>00000179</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息96" msdata:rowOrder="95">
+        <truck_mc>鲁DA6032</truck_mc>
+        <truck_id>00000210</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息97" msdata:rowOrder="96">
+        <truck_mc>鲁DA6072</truck_mc>
+        <truck_id>00000130</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息98" msdata:rowOrder="97">
+        <truck_mc>鲁DA8732</truck_mc>
+        <truck_id>00000178</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息99" msdata:rowOrder="98">
+        <truck_mc>鲁DA9638</truck_mc>
+        <truck_id>00000183</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息100" msdata:rowOrder="99">
+        <truck_mc>鲁DC2620</truck_mc>
+        <truck_id>00000180</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息101" msdata:rowOrder="100">
+        <truck_mc>鲁DD2777</truck_mc>
+        <truck_id>00000127</truck_id>
+        <cys_mc>二次-枣庄昌隆</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息102" msdata:rowOrder="101">
+        <truck_mc>鲁E04772</truck_mc>
+        <truck_id>00000059</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息103" msdata:rowOrder="102">
+        <truck_mc>鲁E06965(停用)</truck_mc>
+        <truck_id>00000446</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息104" msdata:rowOrder="103">
+        <truck_mc>鲁E61898(停用)</truck_mc>
+        <truck_id>00000056</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息105" msdata:rowOrder="104">
+        <truck_mc>鲁E73167(停用)</truck_mc>
+        <truck_id>00000438</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息106" msdata:rowOrder="105">
+        <truck_mc>鲁E73833(停用)</truck_mc>
+        <truck_id>00000445</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息107" msdata:rowOrder="106">
+        <truck_mc>鲁E81855</truck_mc>
+        <truck_id>00000105</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息108" msdata:rowOrder="107">
+        <truck_mc>鲁E83922</truck_mc>
+        <truck_id>00000106</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息109" msdata:rowOrder="108">
+        <truck_mc>鲁E88251(停用)</truck_mc>
+        <truck_id>00000466</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息110" msdata:rowOrder="109">
+        <truck_mc>鲁E91700(停用)</truck_mc>
+        <truck_id>00000467</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息111" msdata:rowOrder="110">
+        <truck_mc>鲁EA0879</truck_mc>
+        <truck_id>00000465</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息112" msdata:rowOrder="111">
+        <truck_mc>鲁EA1379</truck_mc>
+        <truck_id>00000729</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息113" msdata:rowOrder="112">
+        <truck_mc>鲁ED1077</truck_mc>
+        <truck_id>00000055</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息114" msdata:rowOrder="113">
+        <truck_mc>鲁ED2308</truck_mc>
+        <truck_id>00000060</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息115" msdata:rowOrder="114">
+        <truck_mc>鲁ED9211</truck_mc>
+        <truck_id>00000061</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息116" msdata:rowOrder="115">
+        <truck_mc>鲁ED9733</truck_mc>
+        <truck_id>00000054</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息117" msdata:rowOrder="116">
+        <truck_mc>鲁EE5710</truck_mc>
+        <truck_id>00000062</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息118" msdata:rowOrder="117">
+        <truck_mc>鲁EF0217</truck_mc>
+        <truck_id>00000057</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息119" msdata:rowOrder="118">
+        <truck_mc>鲁EF0715</truck_mc>
+        <truck_id>00000038</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息120" msdata:rowOrder="119">
+        <truck_mc>鲁EF1105</truck_mc>
+        <truck_id>00000058</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息121" msdata:rowOrder="120">
+        <truck_mc>鲁EF1950</truck_mc>
+        <truck_id>00000037</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息122" msdata:rowOrder="121">
+        <truck_mc>鲁EF2285</truck_mc>
+        <truck_id>00000104</truck_id>
+        <cys_mc>二次-东营万通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息123" msdata:rowOrder="122">
+        <truck_mc>鲁F1(停用)</truck_mc>
+        <truck_id>00000374</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息124" msdata:rowOrder="123">
+        <truck_mc>鲁F2(停用)</truck_mc>
+        <truck_id>00000425</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息125" msdata:rowOrder="124">
+        <truck_mc>鲁F29321(停用)</truck_mc>
+        <truck_id>00000386</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息126" msdata:rowOrder="125">
+        <truck_mc>鲁F29323</truck_mc>
+        <truck_id>00000388</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息127" msdata:rowOrder="126">
+        <truck_mc>鲁F29831</truck_mc>
+        <truck_id>00000387</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息128" msdata:rowOrder="127">
+        <truck_mc>鲁F3(停用)</truck_mc>
+        <truck_id>00000389</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息129" msdata:rowOrder="128">
+        <truck_mc>鲁F4(停用)</truck_mc>
+        <truck_id>00000159</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息130" msdata:rowOrder="129">
+        <truck_mc>鲁FAD005</truck_mc>
+        <truck_id>00000157</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息131" msdata:rowOrder="130">
+        <truck_mc>鲁FAD068</truck_mc>
+        <truck_id>00000169</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息132" msdata:rowOrder="131">
+        <truck_mc>鲁FAD395</truck_mc>
+        <truck_id>00000171</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息133" msdata:rowOrder="132">
+        <truck_mc>鲁FAM205</truck_mc>
+        <truck_id>00000160</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息134" msdata:rowOrder="133">
+        <truck_mc>鲁FAR525</truck_mc>
+        <truck_id>00000423</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息135" msdata:rowOrder="134">
+        <truck_mc>鲁FAW830</truck_mc>
+        <truck_id>00000168</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息136" msdata:rowOrder="135">
+        <truck_mc>鲁FAX792</truck_mc>
+        <truck_id>00000166</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息137" msdata:rowOrder="136">
+        <truck_mc>鲁FAZ855</truck_mc>
+        <truck_id>00000161</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息138" msdata:rowOrder="137">
+        <truck_mc>鲁FAZ883</truck_mc>
+        <truck_id>00000170</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息139" msdata:rowOrder="138">
+        <truck_mc>鲁FBQ201</truck_mc>
+        <truck_id>00000177</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息140" msdata:rowOrder="139">
+        <truck_mc>鲁FCE360</truck_mc>
+        <truck_id>00000689</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息141" msdata:rowOrder="140">
+        <truck_mc>鲁FCE921</truck_mc>
+        <truck_id>00000174</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息142" msdata:rowOrder="141">
+        <truck_mc>鲁FCH936</truck_mc>
+        <truck_id>00000165</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息143" msdata:rowOrder="142">
+        <truck_mc>鲁FCK319</truck_mc>
+        <truck_id>00000381</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息144" msdata:rowOrder="143">
+        <truck_mc>鲁FCM327(停用)</truck_mc>
+        <truck_id>00000154</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息145" msdata:rowOrder="144">
+        <truck_mc>鲁FCR916</truck_mc>
+        <truck_id>00000373</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息146" msdata:rowOrder="145">
+        <truck_mc>鲁FCW388(停用)</truck_mc>
+        <truck_id>00000133</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息147" msdata:rowOrder="146">
+        <truck_mc>鲁FDG251</truck_mc>
+        <truck_id>00000175</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息148" msdata:rowOrder="147">
+        <truck_mc>鲁FDQ129</truck_mc>
+        <truck_id>00000694</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息149" msdata:rowOrder="148">
+        <truck_mc>鲁FDZ133</truck_mc>
+        <truck_id>00000172</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息150" msdata:rowOrder="149">
+        <truck_mc>鲁FEB211</truck_mc>
+        <truck_id>00000375</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息151" msdata:rowOrder="150">
+        <truck_mc>鲁FED275</truck_mc>
+        <truck_id>00000691</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息152" msdata:rowOrder="151">
+        <truck_mc>鲁FEN762</truck_mc>
+        <truck_id>00000695</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息153" msdata:rowOrder="152">
+        <truck_mc>鲁FEP651</truck_mc>
+        <truck_id>00000690</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息154" msdata:rowOrder="153">
+        <truck_mc>鲁FEP729</truck_mc>
+        <truck_id>00000692</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息155" msdata:rowOrder="154">
+        <truck_mc>鲁FV1232(停用)</truck_mc>
+        <truck_id>00000176</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息156" msdata:rowOrder="155">
+        <truck_mc>鲁FV1371(停用)</truck_mc>
+        <truck_id>00000385</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息157" msdata:rowOrder="156">
+        <truck_mc>鲁FV2736(停用)</truck_mc>
+        <truck_id>00000492</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息158" msdata:rowOrder="157">
+        <truck_mc>鲁FV6112</truck_mc>
+        <truck_id>00000427</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息159" msdata:rowOrder="158">
+        <truck_mc>鲁FV6129</truck_mc>
+        <truck_id>00000424</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息160" msdata:rowOrder="159">
+        <truck_mc>鲁FW1303</truck_mc>
+        <truck_id>00000422</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息161" msdata:rowOrder="160">
+        <truck_mc>鲁FW1337</truck_mc>
+        <truck_id>00000426</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息162" msdata:rowOrder="161">
+        <truck_mc>鲁FW1363</truck_mc>
+        <truck_id>00000507</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息163" msdata:rowOrder="162">
+        <truck_mc>鲁FW1391</truck_mc>
+        <truck_id>00000173</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息164" msdata:rowOrder="163">
+        <truck_mc>鲁FW1395</truck_mc>
+        <truck_id>00000384</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息165" msdata:rowOrder="164">
+        <truck_mc>鲁FW2323</truck_mc>
+        <truck_id>00000158</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息166" msdata:rowOrder="165">
+        <truck_mc>鲁FW2328</truck_mc>
+        <truck_id>00000164</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息167" msdata:rowOrder="166">
+        <truck_mc>鲁FW2332</truck_mc>
+        <truck_id>00000167</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息168" msdata:rowOrder="167">
+        <truck_mc>鲁FW2355</truck_mc>
+        <truck_id>00000163</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息169" msdata:rowOrder="168">
+        <truck_mc>鲁FW2358</truck_mc>
+        <truck_id>00000162</truck_id>
+        <cys_mc>二次-烟台统联</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息170" msdata:rowOrder="169">
+        <truck_mc>鲁H25B71</truck_mc>
+        <truck_id>00000253</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息171" msdata:rowOrder="170">
+        <truck_mc>鲁H25C19</truck_mc>
+        <truck_id>00000312</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息172" msdata:rowOrder="171">
+        <truck_mc>鲁H25C53</truck_mc>
+        <truck_id>00000348</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息173" msdata:rowOrder="172">
+        <truck_mc>鲁H25C77</truck_mc>
+        <truck_id>00000347</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息174" msdata:rowOrder="173">
+        <truck_mc>鲁H25C87</truck_mc>
+        <truck_id>00000254</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息175" msdata:rowOrder="174">
+        <truck_mc>鲁H32A53</truck_mc>
+        <truck_id>00000315</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息176" msdata:rowOrder="175">
+        <truck_mc>鲁H34A99</truck_mc>
+        <truck_id>00000322</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息177" msdata:rowOrder="176">
+        <truck_mc>鲁H42A69</truck_mc>
+        <truck_id>00000377</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息178" msdata:rowOrder="177">
+        <truck_mc>鲁H42A86</truck_mc>
+        <truck_id>00000311</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息179" msdata:rowOrder="178">
+        <truck_mc>鲁H46C96</truck_mc>
+        <truck_id>00000349</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息180" msdata:rowOrder="179">
+        <truck_mc>鲁H47A66</truck_mc>
+        <truck_id>00000256</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息181" msdata:rowOrder="180">
+        <truck_mc>鲁H53D18</truck_mc>
+        <truck_id>00000346</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息182" msdata:rowOrder="181">
+        <truck_mc>鲁H53D53</truck_mc>
+        <truck_id>00000323</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息183" msdata:rowOrder="182">
+        <truck_mc>鲁H66B79</truck_mc>
+        <truck_id>00000324</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息184" msdata:rowOrder="183">
+        <truck_mc>鲁H81C16</truck_mc>
+        <truck_id>00000378</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息185" msdata:rowOrder="184">
+        <truck_mc>鲁H81C76</truck_mc>
+        <truck_id>00000321</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息186" msdata:rowOrder="185">
+        <truck_mc>鲁H81C88</truck_mc>
+        <truck_id>00000314</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息187" msdata:rowOrder="186">
+        <truck_mc>鲁H87C01</truck_mc>
+        <truck_id>00000313</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息188" msdata:rowOrder="187">
+        <truck_mc>鲁H87C31</truck_mc>
+        <truck_id>00000257</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息189" msdata:rowOrder="188">
+        <truck_mc>鲁H87C97</truck_mc>
+        <truck_id>00000255</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息190" msdata:rowOrder="189">
+        <truck_mc>鲁HC9397</truck_mc>
+        <truck_id>00000345</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息191" msdata:rowOrder="190">
+        <truck_mc>鲁HC9399</truck_mc>
+        <truck_id>00000258</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息192" msdata:rowOrder="191">
+        <truck_mc>鲁HH1109(停用)</truck_mc>
+        <truck_id>00000316</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息193" msdata:rowOrder="192">
+        <truck_mc>鲁HH1159(停用)</truck_mc>
+        <truck_id>00000350</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息194" msdata:rowOrder="193">
+        <truck_mc>鲁HH1259</truck_mc>
+        <truck_id>00000325</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息195" msdata:rowOrder="194">
+        <truck_mc>鲁HH1289</truck_mc>
+        <truck_id>00000320</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息196" msdata:rowOrder="195">
+        <truck_mc>鲁HH1389</truck_mc>
+        <truck_id>00000376</truck_id>
+        <cys_mc>二次-济宁信安</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息197" msdata:rowOrder="196">
+        <truck_mc>鲁K17963</truck_mc>
+        <truck_id>00000441</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息198" msdata:rowOrder="197">
+        <truck_mc>鲁K53157</truck_mc>
+        <truck_id>00000033</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息199" msdata:rowOrder="198">
+        <truck_mc>鲁K56577</truck_mc>
+        <truck_id>00000034</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息200" msdata:rowOrder="199">
+        <truck_mc>鲁K59657</truck_mc>
+        <truck_id>00000036</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息201" msdata:rowOrder="200">
+        <truck_mc>鲁K81711</truck_mc>
+        <truck_id>00000262</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息202" msdata:rowOrder="201">
+        <truck_mc>鲁K82927</truck_mc>
+        <truck_id>00000440</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息203" msdata:rowOrder="202">
+        <truck_mc>鲁K86875</truck_mc>
+        <truck_id>00000261</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息204" msdata:rowOrder="203">
+        <truck_mc>鲁K86918</truck_mc>
+        <truck_id>00000338</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息205" msdata:rowOrder="204">
+        <truck_mc>鲁K89103</truck_mc>
+        <truck_id>00000263</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息206" msdata:rowOrder="205">
+        <truck_mc>鲁K89321</truck_mc>
+        <truck_id>00000337</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息207" msdata:rowOrder="206">
+        <truck_mc>鲁K89515</truck_mc>
+        <truck_id>00000260</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息208" msdata:rowOrder="207">
+        <truck_mc>鲁K96157</truck_mc>
+        <truck_id>00000291</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息209" msdata:rowOrder="208">
+        <truck_mc>鲁K96195</truck_mc>
+        <truck_id>00000290</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息210" msdata:rowOrder="209">
+        <truck_mc>鲁K96325</truck_mc>
+        <truck_id>00000040</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息211" msdata:rowOrder="210">
+        <truck_mc>鲁KA3357</truck_mc>
+        <truck_id>00000273</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息212" msdata:rowOrder="211">
+        <truck_mc>鲁KA3370</truck_mc>
+        <truck_id>00000259</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息213" msdata:rowOrder="212">
+        <truck_mc>鲁KA3722</truck_mc>
+        <truck_id>00000264</truck_id>
+        <cys_mc>二次-威海嘉润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息214" msdata:rowOrder="213">
+        <truck_mc>鲁L58338</truck_mc>
+        <truck_id>00000045</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息215" msdata:rowOrder="214">
+        <truck_mc>鲁L66988</truck_mc>
+        <truck_id>00000072</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息216" msdata:rowOrder="215">
+        <truck_mc>鲁L70179</truck_mc>
+        <truck_id>00000533</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息217" msdata:rowOrder="216">
+        <truck_mc>鲁L70560</truck_mc>
+        <truck_id>00000536</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息218" msdata:rowOrder="217">
+        <truck_mc>鲁L70713</truck_mc>
+        <truck_id>00000048</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息219" msdata:rowOrder="218">
+        <truck_mc>鲁L73157</truck_mc>
+        <truck_id>00000534</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息220" msdata:rowOrder="219">
+        <truck_mc>鲁L91278</truck_mc>
+        <truck_id>00000535</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息221" msdata:rowOrder="220">
+        <truck_mc>鲁LC6055</truck_mc>
+        <truck_id>00000122</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息222" msdata:rowOrder="221">
+        <truck_mc>鲁LC6062</truck_mc>
+        <truck_id>00000109</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息223" msdata:rowOrder="222">
+        <truck_mc>鲁LD0388</truck_mc>
+        <truck_id>00000117</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息224" msdata:rowOrder="223">
+        <truck_mc>鲁LD1020</truck_mc>
+        <truck_id>00000123</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息225" msdata:rowOrder="224">
+        <truck_mc>鲁LD1120</truck_mc>
+        <truck_id>00000120</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息226" msdata:rowOrder="225">
+        <truck_mc>鲁LD1227</truck_mc>
+        <truck_id>00000124</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息227" msdata:rowOrder="226">
+        <truck_mc>鲁LD1238</truck_mc>
+        <truck_id>00000118</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息228" msdata:rowOrder="227">
+        <truck_mc>鲁LD1257</truck_mc>
+        <truck_id>00000121</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息229" msdata:rowOrder="228">
+        <truck_mc>鲁LD1273</truck_mc>
+        <truck_id>00000032</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息230" msdata:rowOrder="229">
+        <truck_mc>鲁LD2500</truck_mc>
+        <truck_id>00000116</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息231" msdata:rowOrder="230">
+        <truck_mc>鲁LD2510</truck_mc>
+        <truck_id>00000110</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息232" msdata:rowOrder="231">
+        <truck_mc>鲁LD2520</truck_mc>
+        <truck_id>00000108</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息233" msdata:rowOrder="232">
+        <truck_mc>鲁LD5359</truck_mc>
+        <truck_id>00000041</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息234" msdata:rowOrder="233">
+        <truck_mc>鲁LD5367</truck_mc>
+        <truck_id>00000119</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息235" msdata:rowOrder="234">
+        <truck_mc>鲁LD5368</truck_mc>
+        <truck_id>00000042</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息236" msdata:rowOrder="235">
+        <truck_mc>鲁L临时</truck_mc>
+        <truck_id>00000070</truck_id>
+        <cys_mc>二次-日照宏泰</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息237" msdata:rowOrder="236">
+        <truck_mc>鲁M09783</truck_mc>
+        <truck_id>00000409</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息238" msdata:rowOrder="237">
+        <truck_mc>鲁M09785</truck_mc>
+        <truck_id>00000419</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息239" msdata:rowOrder="238">
+        <truck_mc>鲁MA2887</truck_mc>
+        <truck_id>00000408</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息240" msdata:rowOrder="239">
+        <truck_mc>鲁MA3727</truck_mc>
+        <truck_id>00000336</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息241" msdata:rowOrder="240">
+        <truck_mc>鲁MA3779</truck_mc>
+        <truck_id>00000430</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息242" msdata:rowOrder="241">
+        <truck_mc>鲁MA3797</truck_mc>
+        <truck_id>00000429</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息243" msdata:rowOrder="242">
+        <truck_mc>鲁MA3798</truck_mc>
+        <truck_id>00000431</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息244" msdata:rowOrder="243">
+        <truck_mc>鲁MA851挂</truck_mc>
+        <truck_id>00000334</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息245" msdata:rowOrder="244">
+        <truck_mc>鲁MA872挂</truck_mc>
+        <truck_id>00000335</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息246" msdata:rowOrder="245">
+        <truck_mc>鲁MD165挂</truck_mc>
+        <truck_id>00000277</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息247" msdata:rowOrder="246">
+        <truck_mc>鲁MD208挂</truck_mc>
+        <truck_id>00000333</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息248" msdata:rowOrder="247">
+        <truck_mc>鲁MD209挂</truck_mc>
+        <truck_id>00000275</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息249" msdata:rowOrder="248">
+        <truck_mc>鲁MD210挂</truck_mc>
+        <truck_id>00000331</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息250" msdata:rowOrder="249">
+        <truck_mc>鲁MD256挂</truck_mc>
+        <truck_id>00000274</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息251" msdata:rowOrder="250">
+        <truck_mc>鲁MD278挂</truck_mc>
+        <truck_id>00000271</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息252" msdata:rowOrder="251">
+        <truck_mc>鲁MD381挂</truck_mc>
+        <truck_id>00000276</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息253" msdata:rowOrder="252">
+        <truck_mc>鲁MD523挂</truck_mc>
+        <truck_id>00000332</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息254" msdata:rowOrder="253">
+        <truck_mc>鲁MD592挂</truck_mc>
+        <truck_id>00000272</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息255" msdata:rowOrder="254">
+        <truck_mc>鲁MHT81挂</truck_mc>
+        <truck_id>00000029</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息256" msdata:rowOrder="255">
+        <truck_mc>鲁MHY02挂</truck_mc>
+        <truck_id>00000028</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息257" msdata:rowOrder="256">
+        <truck_mc>鲁MHY65挂</truck_mc>
+        <truck_id>00000031</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息258" msdata:rowOrder="257">
+        <truck_mc>鲁MKP62挂</truck_mc>
+        <truck_id>00000030</truck_id>
+        <cys_mc>二次-滨州顺通</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息259" msdata:rowOrder="258">
+        <truck_mc>鲁NB5731</truck_mc>
+        <truck_id>00000527</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息260" msdata:rowOrder="259">
+        <truck_mc>鲁NB5761</truck_mc>
+        <truck_id>00000282</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息261" msdata:rowOrder="260">
+        <truck_mc>鲁NC1350</truck_mc>
+        <truck_id>00000285</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息262" msdata:rowOrder="261">
+        <truck_mc>鲁NC1351</truck_mc>
+        <truck_id>00000284</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息263" msdata:rowOrder="262">
+        <truck_mc>鲁NC1737</truck_mc>
+        <truck_id>00000411</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息264" msdata:rowOrder="263">
+        <truck_mc>鲁NC1751</truck_mc>
+        <truck_id>00000283</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息265" msdata:rowOrder="264">
+        <truck_mc>鲁NC2433</truck_mc>
+        <truck_id>00000516</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息266" msdata:rowOrder="265">
+        <truck_mc>鲁NC5685</truck_mc>
+        <truck_id>00000288</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息267" msdata:rowOrder="266">
+        <truck_mc>鲁NC6231</truck_mc>
+        <truck_id>00000013</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息268" msdata:rowOrder="267">
+        <truck_mc>鲁NC6279</truck_mc>
+        <truck_id>00000012</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息269" msdata:rowOrder="268">
+        <truck_mc>鲁NC7149</truck_mc>
+        <truck_id>00000014</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息270" msdata:rowOrder="269">
+        <truck_mc>鲁NC7607</truck_mc>
+        <truck_id>00000002</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息271" msdata:rowOrder="270">
+        <truck_mc>鲁NC7637</truck_mc>
+        <truck_id>00000025</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息272" msdata:rowOrder="271">
+        <truck_mc>鲁NC7643</truck_mc>
+        <truck_id>00000024</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息273" msdata:rowOrder="272">
+        <truck_mc>鲁NC8824</truck_mc>
+        <truck_id>00000468</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息274" msdata:rowOrder="273">
+        <truck_mc>鲁NC8843</truck_mc>
+        <truck_id>00000428</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息275" msdata:rowOrder="274">
+        <truck_mc>鲁NC8878</truck_mc>
+        <truck_id>00000289</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息276" msdata:rowOrder="275">
+        <truck_mc>鲁NC9702</truck_mc>
+        <truck_id>00000015</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息277" msdata:rowOrder="276">
+        <truck_mc>鲁NC9782</truck_mc>
+        <truck_id>00000001</truck_id>
+        <cys_mc>二次-德州振兴</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息278" msdata:rowOrder="277">
+        <truck_mc>鲁P04044</truck_mc>
+        <truck_id>00000393</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息279" msdata:rowOrder="278">
+        <truck_mc>鲁P04069</truck_mc>
+        <truck_id>00000351</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息280" msdata:rowOrder="279">
+        <truck_mc>鲁P04085</truck_mc>
+        <truck_id>00000300</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息281" msdata:rowOrder="280">
+        <truck_mc>鲁P04687</truck_mc>
+        <truck_id>00000395</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息282" msdata:rowOrder="281">
+        <truck_mc>鲁P04840</truck_mc>
+        <truck_id>00000297</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息283" msdata:rowOrder="282">
+        <truck_mc>鲁PD0132</truck_mc>
+        <truck_id>00000394</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息284" msdata:rowOrder="283">
+        <truck_mc>鲁PD0631</truck_mc>
+        <truck_id>00000354</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息285" msdata:rowOrder="284">
+        <truck_mc>鲁PD6770</truck_mc>
+        <truck_id>00000299</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息286" msdata:rowOrder="285">
+        <truck_mc>鲁PE2308</truck_mc>
+        <truck_id>00000352</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息287" msdata:rowOrder="286">
+        <truck_mc>鲁PE2388</truck_mc>
+        <truck_id>00000353</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息288" msdata:rowOrder="287">
+        <truck_mc>鲁PE7880</truck_mc>
+        <truck_id>00000355</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息289" msdata:rowOrder="288">
+        <truck_mc>鲁PE8159</truck_mc>
+        <truck_id>00000296</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息290" msdata:rowOrder="289">
+        <truck_mc>鲁PF8605</truck_mc>
+        <truck_id>00000397</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息291" msdata:rowOrder="290">
+        <truck_mc>鲁PG2336</truck_mc>
+        <truck_id>00000298</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息292" msdata:rowOrder="291">
+        <truck_mc>鲁PH0809</truck_mc>
+        <truck_id>00000356</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息293" msdata:rowOrder="292">
+        <truck_mc>鲁PH0885</truck_mc>
+        <truck_id>00000444</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息294" msdata:rowOrder="293">
+        <truck_mc>鲁PH0887</truck_mc>
+        <truck_id>00000447</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息295" msdata:rowOrder="294">
+        <truck_mc>鲁PJ2866</truck_mc>
+        <truck_id>00000396</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息296" msdata:rowOrder="295">
+        <truck_mc>鲁PJ2929</truck_mc>
+        <truck_id>00000286</truck_id>
+        <cys_mc>二次-聊城佳顺</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息297" msdata:rowOrder="296">
+        <truck_mc>鲁Q06616</truck_mc>
+        <truck_id>00000361</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息298" msdata:rowOrder="297">
+        <truck_mc>鲁Q06622</truck_mc>
+        <truck_id>00000246</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息299" msdata:rowOrder="298">
+        <truck_mc>鲁Q07258</truck_mc>
+        <truck_id>00000248</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息300" msdata:rowOrder="299">
+        <truck_mc>鲁Q09713</truck_mc>
+        <truck_id>00000280</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息301" msdata:rowOrder="300">
+        <truck_mc>鲁Q09715</truck_mc>
+        <truck_id>00000414</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息302" msdata:rowOrder="301">
+        <truck_mc>鲁Q09730</truck_mc>
+        <truck_id>00000362</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息303" msdata:rowOrder="302">
+        <truck_mc>鲁Q151BM</truck_mc>
+        <truck_id>00000412</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息304" msdata:rowOrder="303">
+        <truck_mc>鲁Q22730</truck_mc>
+        <truck_id>00000443</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息305" msdata:rowOrder="304">
+        <truck_mc>鲁Q22731</truck_mc>
+        <truck_id>00000360</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息306" msdata:rowOrder="305">
+        <truck_mc>鲁Q22732</truck_mc>
+        <truck_id>00000281</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息307" msdata:rowOrder="306">
+        <truck_mc>鲁Q22903</truck_mc>
+        <truck_id>00000416</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息308" msdata:rowOrder="307">
+        <truck_mc>鲁Q22905</truck_mc>
+        <truck_id>00000330</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息309" msdata:rowOrder="308">
+        <truck_mc>鲁Q22907</truck_mc>
+        <truck_id>00000358</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息310" msdata:rowOrder="309">
+        <truck_mc>鲁Q22908</truck_mc>
+        <truck_id>00000278</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息311" msdata:rowOrder="310">
+        <truck_mc>鲁Q22916</truck_mc>
+        <truck_id>00000357</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息312" msdata:rowOrder="311">
+        <truck_mc>鲁QA(拆除)</truck_mc>
+        <truck_id>00000518</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息313" msdata:rowOrder="312">
+        <truck_mc>鲁QA1319</truck_mc>
+        <truck_id>00000279</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息314" msdata:rowOrder="313">
+        <truck_mc>鲁QA1326</truck_mc>
+        <truck_id>00000294</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息315" msdata:rowOrder="314">
+        <truck_mc>鲁QA1358</truck_mc>
+        <truck_id>00000245</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息316" msdata:rowOrder="315">
+        <truck_mc>鲁QD0389</truck_mc>
+        <truck_id>00000247</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息317" msdata:rowOrder="316">
+        <truck_mc>鲁QD0395</truck_mc>
+        <truck_id>00000250</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息318" msdata:rowOrder="317">
+        <truck_mc>鲁QD0462</truck_mc>
+        <truck_id>00000287</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息319" msdata:rowOrder="318">
+        <truck_mc>鲁QD0812</truck_mc>
+        <truck_id>00000329</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息320" msdata:rowOrder="319">
+        <truck_mc>鲁QD0883</truck_mc>
+        <truck_id>00000249</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息321" msdata:rowOrder="320">
+        <truck_mc>鲁QD1467</truck_mc>
+        <truck_id>00000293</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息322" msdata:rowOrder="321">
+        <truck_mc>鲁QD1493</truck_mc>
+        <truck_id>00000292</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息323" msdata:rowOrder="322">
+        <truck_mc>鲁QD3570</truck_mc>
+        <truck_id>00000295</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息324" msdata:rowOrder="323">
+        <truck_mc>鲁QD6377</truck_mc>
+        <truck_id>00000359</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息325" msdata:rowOrder="324">
+        <truck_mc>鲁QD6388</truck_mc>
+        <truck_id>00000417</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息326" msdata:rowOrder="325">
+        <truck_mc>鲁QD7373</truck_mc>
+        <truck_id>00000442</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息327" msdata:rowOrder="326">
+        <truck_mc>鲁QD7378</truck_mc>
+        <truck_id>00000415</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息328" msdata:rowOrder="327">
+        <truck_mc>鲁QD7958</truck_mc>
+        <truck_id>00000251</truck_id>
+        <cys_mc>二次-临沂远航</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息329" msdata:rowOrder="328">
+        <truck_mc>鲁R02630</truck_mc>
+        <truck_id>00000142</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息330" msdata:rowOrder="329">
+        <truck_mc>鲁R07280</truck_mc>
+        <truck_id>00000003</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息331" msdata:rowOrder="330">
+        <truck_mc>鲁RA1163</truck_mc>
+        <truck_id>00000149</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息332" msdata:rowOrder="331">
+        <truck_mc>鲁RA2007</truck_mc>
+        <truck_id>00000005</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息333" msdata:rowOrder="332">
+        <truck_mc>鲁RB0002</truck_mc>
+        <truck_id>00000137</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息334" msdata:rowOrder="333">
+        <truck_mc>鲁RB0367</truck_mc>
+        <truck_id>00000150</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息335" msdata:rowOrder="334">
+        <truck_mc>鲁RB1160</truck_mc>
+        <truck_id>00000147</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息336" msdata:rowOrder="335">
+        <truck_mc>鲁RE6056(停用)</truck_mc>
+        <truck_id>00000139</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息337" msdata:rowOrder="336">
+        <truck_mc>鲁RG5833</truck_mc>
+        <truck_id>00000152</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息338" msdata:rowOrder="337">
+        <truck_mc>鲁RH0707</truck_mc>
+        <truck_id>00000143</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息339" msdata:rowOrder="338">
+        <truck_mc>鲁RH1909</truck_mc>
+        <truck_id>00000145</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息340" msdata:rowOrder="339">
+        <truck_mc>鲁RH9606</truck_mc>
+        <truck_id>00000153</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息341" msdata:rowOrder="340">
+        <truck_mc>鲁RK1297</truck_mc>
+        <truck_id>00000156</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息342" msdata:rowOrder="341">
+        <truck_mc>鲁RL1077</truck_mc>
+        <truck_id>00000146</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息343" msdata:rowOrder="342">
+        <truck_mc>鲁RL1578</truck_mc>
+        <truck_id>00000138</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息344" msdata:rowOrder="343">
+        <truck_mc>鲁RL2178</truck_mc>
+        <truck_id>00000140</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息345" msdata:rowOrder="344">
+        <truck_mc>鲁RL8153</truck_mc>
+        <truck_id>00000006</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息346" msdata:rowOrder="345">
+        <truck_mc>鲁RM2252</truck_mc>
+        <truck_id>00000148</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息347" msdata:rowOrder="346">
+        <truck_mc>鲁RM3535</truck_mc>
+        <truck_id>00000004</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息348" msdata:rowOrder="347">
+        <truck_mc>鲁RM6176</truck_mc>
+        <truck_id>00000151</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息349" msdata:rowOrder="348">
+        <truck_mc>鲁RM7900</truck_mc>
+        <truck_id>00000155</truck_id>
+        <cys_mc>二次-菏泽友润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息350" msdata:rowOrder="349">
+        <truck_mc>鲁S15110</truck_mc>
+        <truck_id>00000267</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息351" msdata:rowOrder="350">
+        <truck_mc>鲁S33819</truck_mc>
+        <truck_id>00000413</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息352" msdata:rowOrder="351">
+        <truck_mc>鲁S33860</truck_mc>
+        <truck_id>00000268</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息353" msdata:rowOrder="352">
+        <truck_mc>鲁S33879</truck_mc>
+        <truck_id>00000270</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息354" msdata:rowOrder="353">
+        <truck_mc>鲁S51553</truck_mc>
+        <truck_id>00000266</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息355" msdata:rowOrder="354">
+        <truck_mc>鲁S51580</truck_mc>
+        <truck_id>00000265</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息356" msdata:rowOrder="355">
+        <truck_mc>鲁S53662</truck_mc>
+        <truck_id>00000371</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息357" msdata:rowOrder="356">
+        <truck_mc>鲁S53997</truck_mc>
+        <truck_id>00000269</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息358" msdata:rowOrder="357">
+        <truck_mc>鲁S57980</truck_mc>
+        <truck_id>00000370</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息359" msdata:rowOrder="358">
+        <truck_mc>鲁S58008</truck_mc>
+        <truck_id>00000372</truck_id>
+        <cys_mc>二次-莱芜畅达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息360" msdata:rowOrder="359">
+        <truck_mc>鲁UA1677</truck_mc>
+        <truck_id>00000102</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息361" msdata:rowOrder="360">
+        <truck_mc>鲁UA1678</truck_mc>
+        <truck_id>00000087</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息362" msdata:rowOrder="361">
+        <truck_mc>鲁UA1699</truck_mc>
+        <truck_id>00000390</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息363" msdata:rowOrder="362">
+        <truck_mc>鲁UA7766</truck_mc>
+        <truck_id>00000090</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息364" msdata:rowOrder="363">
+        <truck_mc>鲁UA7779</truck_mc>
+        <truck_id>00000089</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息365" msdata:rowOrder="364">
+        <truck_mc>鲁UA7798</truck_mc>
+        <truck_id>00000093</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息366" msdata:rowOrder="365">
+        <truck_mc>鲁UA9702</truck_mc>
+        <truck_id>00000081</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息367" msdata:rowOrder="366">
+        <truck_mc>鲁UC1350</truck_mc>
+        <truck_id>00000391</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息368" msdata:rowOrder="367">
+        <truck_mc>鲁UC1360</truck_mc>
+        <truck_id>00000099</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息369" msdata:rowOrder="368">
+        <truck_mc>鲁UC1373</truck_mc>
+        <truck_id>00000103</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息370" msdata:rowOrder="369">
+        <truck_mc>鲁UC1392</truck_mc>
+        <truck_id>00000392</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息371" msdata:rowOrder="370">
+        <truck_mc>鲁UC1395</truck_mc>
+        <truck_id>00000100</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息372" msdata:rowOrder="371">
+        <truck_mc>鲁UC1396</truck_mc>
+        <truck_id>00000080</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息373" msdata:rowOrder="372">
+        <truck_mc>鲁UD9559</truck_mc>
+        <truck_id>00000129</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息374" msdata:rowOrder="373">
+        <truck_mc>鲁UE0859</truck_mc>
+        <truck_id>00000189</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息375" msdata:rowOrder="374">
+        <truck_mc>鲁UE1835</truck_mc>
+        <truck_id>00000188</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息376" msdata:rowOrder="375">
+        <truck_mc>鲁UG9673</truck_mc>
+        <truck_id>00000088</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息377" msdata:rowOrder="376">
+        <truck_mc>鲁UH2597</truck_mc>
+        <truck_id>00000187</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息378" msdata:rowOrder="377">
+        <truck_mc>鲁UH3017</truck_mc>
+        <truck_id>00000190</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息379" msdata:rowOrder="378">
+        <truck_mc>鲁UH5670</truck_mc>
+        <truck_id>00000101</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息380" msdata:rowOrder="379">
+        <truck_mc>鲁UH9720</truck_mc>
+        <truck_id>00000227</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息381" msdata:rowOrder="380">
+        <truck_mc>鲁UH9788</truck_mc>
+        <truck_id>00000114</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息382" msdata:rowOrder="381">
+        <truck_mc>鲁UJ2515</truck_mc>
+        <truck_id>00000098</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息383" msdata:rowOrder="382">
+        <truck_mc>鲁UJ6735</truck_mc>
+        <truck_id>00000079</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息384" msdata:rowOrder="383">
+        <truck_mc>鲁UK0937</truck_mc>
+        <truck_id>00000192</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息385" msdata:rowOrder="384">
+        <truck_mc>鲁UK1907</truck_mc>
+        <truck_id>00000191</truck_id>
+        <cys_mc>二次-青岛齐华润</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息386" msdata:rowOrder="385">
+        <truck_mc>鲁UK9630</truck_mc>
+        <truck_id>00000226</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息387" msdata:rowOrder="386">
+        <truck_mc>鲁UK9683</truck_mc>
+        <truck_id>00000225</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息388" msdata:rowOrder="387">
+        <truck_mc>鲁UL6923</truck_mc>
+        <truck_id>00000229</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息389" msdata:rowOrder="388">
+        <truck_mc>鲁UL8350</truck_mc>
+        <truck_id>00000084</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息390" msdata:rowOrder="389">
+        <truck_mc>鲁UM7802</truck_mc>
+        <truck_id>00000085</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息391" msdata:rowOrder="390">
+        <truck_mc>鲁UN2355</truck_mc>
+        <truck_id>00000077</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息392" msdata:rowOrder="391">
+        <truck_mc>鲁UN7120</truck_mc>
+        <truck_id>00000076</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息393" msdata:rowOrder="392">
+        <truck_mc>鲁UN9170</truck_mc>
+        <truck_id>00000228</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息394" msdata:rowOrder="393">
+        <truck_mc>鲁UP9202</truck_mc>
+        <truck_id>00000078</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息395" msdata:rowOrder="394">
+        <truck_mc>鲁UR9309</truck_mc>
+        <truck_id>00000721</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息396" msdata:rowOrder="395">
+        <truck_mc>鲁US2918</truck_mc>
+        <truck_id>00000490</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息397" msdata:rowOrder="396">
+        <truck_mc>鲁US6972</truck_mc>
+        <truck_id>00000086</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息398" msdata:rowOrder="397">
+        <truck_mc>鲁US8060</truck_mc>
+        <truck_id>00000720</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息399" msdata:rowOrder="398">
+        <truck_mc>鲁US9073</truck_mc>
+        <truck_id>00000083</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+      <车辆信息 diffgr:id="车辆信息400" msdata:rowOrder="399">
+        <truck_mc>鲁UV7595</truck_mc>
+        <truck_id>00000491</truck_id>
+        <cys_mc>二次-青岛万亿达</cys_mc>
+      </车辆信息>
+    </NewDataSet>
+  </diffgr:diffgram>
+</DataSet>

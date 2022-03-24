@@ -1,0 +1,62 @@
+
+
+
+************  创建
+kafka-topics.sh --zookeeper hadoop101:2181,hadoop102:2181,hadoop103:2181 --create  --replication-factor 3 --partitions 3 --topic test1
+
+
+************  查看
+kafka-topics.sh  --zookeeper hadoop101:2181,hadoop102:2181,hadoop103:2181 --list
+kafka-topics.sh  --zookeeper hadoop101:2181,hadoop102:2181,hadoop103:2181 --describe --topic test1
+
+
+************  生产
+kafka-console-producer.sh --broker-list hadoop101:9092,hadoop102:9092,hadoop103:9092 --topic test1
+
+
+************  消费
+kafka-console-consumer.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --topic test1
+kafka-console-consumer.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --topic test1 --max-messages 1
+kafka-console-consumer.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --topic test1 --from-beginning
+
+
+
+************  修改
+kafka-configs.sh --zookeeper hadoop101:2181,hadoop102:2181,hadoop103:2181 --entity-type topics --entity-name test1 --alter --add-config retention.ms=10000
+
+
+************ 删除
+kafka-topics.sh --delete --zookeeper hadoop101:2181,hadoop102:2181,hadoop103:2181 --topic test1
+
+
+************  消费组
+---列出所有消费者组
+kafka-consumer-groups.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --list
+---列出具体消费者组的信息
+kafka-consumer-groups.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --describe --group 0001
+---列出消费者组状态
+kafka-consumer-groups.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --describe --group 0001 --state
+---列出消费者组中成员信息
+kafka-consumer-groups.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --describe --group 0001 --members --verbose
+---删除消费者组
+kafka-consumer-groups.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --delete --group 0001
+---使用指定offset值重置offset
+kafka-consumer-groups.sh --bootstrap-server hadoop101:9092,hadoop102:9092,hadoop103:9092 --reset-offsets --group 0001 --topic test1 --execute --from-file  reset-offset.csv
+test1,0,20
+test1,1,20
+test1,2,20
+
+
+************  offset
+---最大offset
+kafka-run-class.sh kafka.tools.GetOffsetShell --broker-list hadoop101:9092,hadoop102:9092,hadoop103:9092 --topic test1 --time -1
+---最小offset
+kafka-run-class.sh kafka.tools.GetOffsetShell --broker-list hadoop101:9092,hadoop102:9092,hadoop103:9092 --topic test1 --time -2
+
+kafka-run-class.sh kafka.tools.GetOffsetShell --broker-list hadoop101:9092,hadoop102:9092,hadoop103:9092 --topic test1
+
+
+
+
+
+
